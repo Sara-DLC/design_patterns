@@ -2,7 +2,7 @@
 
 The strategy pattern (also known as the policy pattern) is a behavioral software design pattern that enables selecting an algorithm at runtime.
 
-defines a family of algorithms, it encapsulates each one and makes them interchangeable. Strategy let's the algorithm vary independently from the clients that use it. 
+It defines a family of algorithms and encapsulates each one and makes them interchangeable. Strategy lets the algorithm vary independently from the clients that use it. 
 
 `Duck -> quack() & display()`
 
